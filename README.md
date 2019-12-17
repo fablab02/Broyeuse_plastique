@@ -3,3 +3,5 @@
 
 
 
+Les plans sont disponible en format Fusion 360. (dossier "petite broyeuse" et "grosse broyeuse")
+
